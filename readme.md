@@ -33,6 +33,9 @@ Now you need to open your git bash where you want to download the repo.
 
 Just make the changes you want to add, in the case of these practice repos, write your name and social media.
 
+**if you are feeling adventurous, I have code challeges in the .js file (leave a comment whit your username inside the function you created!)😎**
+
+
 5. Commit your changes
 
 `git add .`
